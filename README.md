@@ -16,7 +16,7 @@ Rev Limiter: 7200rpm
 
 # Gear Ratios
 
-<table><colgroup><col width="100"><col width="100"></colgroup><tbody><tr><th><span><span>1st</span></span></th><th><span><span>3.25</span></span></th></tr><tr><td><span><span>2nd</span></span></td><td><span><span>1.944</span></span></td></tr><tr><td><span><span>3rd</span></span></td><td><span><span>1.346</span></span></td></tr><tr><td><span><span>4th</span></span></td><td><span><span>1.033</span></span></td></tr><tr><td><span><span>5th</span></span></td><td><span><span>0.878</span></span></td></tr><tr><td><span><span>final</span></span></td><td><span><span>3.888</span></span></td></tr></tbody></table>
+<table><colgroup><col width="100"><col width="100"></colgroup><tbody><tr><th><span><span>1st</span></span></th><th><span><span>3.25</span></span></th></tr><tr><td><span><span>2nd</span></span></td><td><span><span>1.944</span></span></td></tr><tr><td><span><span>3rd</span></span></td><td><span><span>1.346</span></span></td></tr><tr><td><span><span>4th</span></span></td><td><span><span>1.033</span></span></td></tr><tr><td><span><span>5th</span></span></td><td><span><span>0.878</span></span></td></tr><tr><td><span><span>final</span></span></td><td><span><span>4.250</span></span></td></tr></tbody></table>
 
 # LSD
 
