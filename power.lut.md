@@ -1,10 +1,14 @@
 # Civic power.lut notes (v1)
 
 ## REFERENCES
-N-m -> Kg-m converter: https://www.convertunits.com/from/N-m/to/kg-m
-ZC PS+Torque figures: https://www.honda.co.jp/factbook/auto/CIVIC/19870909/cv87-044.html
-Modified Honda Dyno Chart w/grid: https://github.com/macbethmotorsport/aeh/blob/master/dyno_japanese_ancient.png
-AC Torque Helper Tool: https://acstuff.ru/u/torque-helper/
+1. N-m -> Kg-m converter: 
+    1. https://www.convertunits.com/from/N-m/to/kg-m
+1. ZC PS+Torque figures: 
+    1. https://www.honda.co.jp/factbook/auto/CIVIC/19870909/cv87-044.html
+1. Modified Honda Dyno Chart w/grid: 
+    1. https://github.com/macbethmotorsport/aeh/blob/master/dyno_japanese_ancient.png
+1. AC Torque Helper Tool: 
+    1. https://acstuff.ru/u/torque-helper/
 
 ## APPROACH
 Below I'm referencing the ancient dyno chart above, in combination with total figures from Honda Japan to create
@@ -12,6 +16,7 @@ a baseline power curve. Figures below are `RPM|TORQUE_NM`. Honda used kg-m, so t
 link above. I've filled in the major power points, and from here will smooth out the curve based on the initial inputs.
 
 ## power.lut w/comments
+```
 50|
 250|
 500|
@@ -45,7 +50,8 @@ link above. I've filled in the major power points, and from here will smooth out
 7500|125 --
 7750|0
 8000|0
+```
 
 ## Output Graph
 The result of the filled in lut above should perform as follows:
-![alt text][dyno_ac_v1.png]
+![alt text](dyno_ac_v1.png)
