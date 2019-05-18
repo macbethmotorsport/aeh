@@ -1,8 +1,7 @@
 {
-  "name": "Honda Civic '87 aeh civic", 
- 	"parent": "afr_honda_civic",
+  "name": "AEH Racing Honda Civic", 
   "brand": "Honda",
-  "description": "The third generation Honda Civic is an automobile which was produced by Honda from 1983 to 1987. It was introduced in September 1983 for model year 1984. The Civic&#39;s wheelbase was increased by 2–5 inches (13 cm) to 93.7 inches (hatchback) or 96.5 inches (sedan). A three-door hatchback/kammback, four-door sedan (also known as the Honda Ballade), the five-door &quot;Shuttle&quot; station wagon, and sporting CRX coup&#233; shared common underpinnings. This included MacPherson strut suspension with torsion bars in the front and a rear beam with coil springs. However, the body panels were largely different between models.",
+  "description": "Team AEH Racing Honda Civic used for LuckyDog and similar races in the Pacific Northwest.",
   "tags": [
     "Japan",
     "Street",
@@ -11,11 +10,11 @@
   ],
   "class": "street",
   "specs": {
-    "bhp": "91bhp",
-    "torque": "114Nm",
+    "bhp": "115bhp",
+    "torque": "144Nm",
     "weight": "860kg",
-    "topspeed": "-",
-    "acceleration": "-",
+    "topspeed": "slow",
+    "acceleration": "slower",
     "pwratio": "9.45kg/hp"
   },
   "torqueCurve": [
@@ -231,8 +230,8 @@
     ]
   ],
   "country": "Japan",
-  "author": null,
-  "version": null,
-  "url": null,
-  "year": 1987
+  "author": "macbeth",
+  "version": 1,
+  "url": "https://github.com/macbethmotorsport/aeh",
+  "year": 1989
 }
