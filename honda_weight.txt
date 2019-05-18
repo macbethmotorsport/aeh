@@ -1,0 +1,601 @@
+Year-Make-Model-Trim-Tranny-Weight 
+1985 Honda CRX Si MT 1883 
+1985 Honda CRX DX MT 1819 
+1985 Honda CRX HF MT 1713 
+1986 Honda CRX Si MT 1953 
+1986 Honda CRX DX MT 1819 
+1986 Honda CRX HF MT 1713 
+1987 Honda CRX Si MT 1978 
+1987 Honda CRX DX MT 1865 
+1987 Honda CRX HF MT 1713 
+1988 Acura Integra LS Coupe MT 2355 
+1988 Acura Integra LS Sedan MT 2396 
+1988 Acura Integra RS Coupe MT 2313 
+1988 Acura Integra RS Sedan MT 2390 
+1988 Acura Integra SE Coupe MT 2355 
+1988 Honda CRX Si MT 2017 
+1988 Honda CRX DX MT 1922 
+1988 Honda CRX HF MT 1819 
+1988 Honda Prelude 4WS MT 2685 
+1988 Honda Prelude S MT 2522 
+1988 Honda Prelude Si MT 2665 
+1988 Honda Accord DX CPE MT 2493 
+1988 Honda Accord LXi CPE MT 2551 
+1988 Honda Accord DX HB MT 2513 
+1988 Honda Accord LXi HB MT 2564 
+1988 Honda Civic DX SDN MT 2039 
+1988 Honda Civic LX SDN MT 2138 
+1988 Honda Accord LX Sedan MT 2482 
+1988 Honda Accord DX Sedan MT 2579 
+1988 Honda Accord LXi Sedan MT 2665 
+1988 Honda Civic DX HB MT 1993 
+1988 Honda Civic HB MT 1933 
+1989 Acura Integra LS Coupe MT 2355 
+1989 Acura Integra LS Sedan MT 2396 
+1989 Acura Integra RS Coupe MT 2313 
+1989 Acura Integra RS Sedan MT 2390 
+1989 Honda CRX Si MT 2138 
+1989 Honda CRX DX MT 2048 
+1989 Honda CRX HF MT 1834 
+1989 Honda Prelude 4WS MT 2741 
+1989 Honda Prelude S MT 2571 
+1989 Honda Prelude Si MT 2712 
+1989 Honda Accord DX CPE MT 2493 
+1989 Honda Accord LXi CPE MT 2646 
+1989 Honda Accord DX HB MT 2513 
+1989 Honda Accord LXi HB MT 2560 
+1989 Honda Accord SE CPE MT 2710 
+1989 Honda Accord SEi CPE MT 2718 
+1989 Honda Civic DX SDN MT 2147 
+1989 Honda Civic LX SDN MT 2211 
+1989 Honda Accord LX Sedan MT 2500 
+1989 Honda Accord DX Sedan MT 2595 
+1989 Honda Accord LXi Sedan MT 2685 
+1989 Honda Accord SEi Sedan MT 2718 
+1989 Honda Civic Si HB MT 2161 
+1989 Honda Civic HB MT 2013 
+1989 Honda Civic DX HB MT 2088 
+1990 Acura Integra GS Coupe MT 2628 
+1990 Acura Integra LS Coupe MT 2590 
+1990 Acura Integra RS Coupe MT 2544 
+1990 Honda CRX Si MT 2174 
+1990 Honda CRX DX MT 2103 
+1990 Honda CRX HF MT 1967 
+1990 Honda Prelude 2.0S MT 2566 
+1990 Honda Prelude 2.0Si MT 2639 
+1990 Honda Prelude 4WS MT 2690 
+1990 Honda Prelude Si MT 2690 
+1990 Honda Accord DX CPE MT 2738 
+1990 Honda Accord EX CPE MT 2888 
+1990 Honda Accord LX CPE MT 2822 
+1990 Honda Civic DX SDN MT 2262 
+1990 Honda Civic LX SDN MT 2322 
+1990 Honda Civic EX SDN MT 2374 
+1990 Honda Accord DX Sedan MT 2733 
+1990 Honda Accord EX Sedan MT 2923 
+1990 Honda Accord LX Sedan MT 2857 
+1990 Honda Civic Si HB MT 2291 
+1990 Honda Civic HB MT 2127 
+1990 Honda Civic DX HB MT 2165 
+1991 Acura Integra GS Coupe MT 2654 
+1991 Acura Integra LS Coupe MT 2619 
+1991 Acura Integra RS Coupe MT 2560 
+1991 Acura NSX MT 3010 
+1991 Honda CRX DX MT 2103 
+1991 Honda CRX HF MT 1967 
+1991 Honda CRX Si MT 2174 
+1991 Honda Prelude 2.0Si MT 2639 
+1991 Honda Prelude 4WS MT 2712 
+1991 Honda Prelude Si MT 2690 
+1991 Honda Accord DX CPE MT 2738 
+1991 Honda Accord EX CPE MT 2888 
+1991 Honda Accord LX CPE MT 2822 
+1991 Honda Civic DX SDN MT 2262 
+1991 Honda Civic LX SDN MT 2322 
+1991 Honda Civic EX SDN MT 2374 
+1991 Honda Accord DX Sedan MT 2773 
+1991 Honda Accord EX Sedan MT 2923 
+1991 Honda Accord LX Sedan MT 2857 
+1991 Honda Accord SE Sedan AT 3053 
+1991 Honda Civic DX HB MT 2165 
+1991 Honda Civic Si HB MT 2291 
+1991 Honda Civic HB MT 2127 
+1992 Acura Integra GS Coupe MT 2643 
+1992 Acura Integra GS-R Coupe MT 2643 
+1992 Acura Integra LS Coupe MT 2623 
+1992 Acura Integra RS Coupe MT 2557 
+1992 Acura Integra GS-Sedan MT 2703 
+1992 Acura Integra LS-Sedan MT 2643 
+1992 Acura Integra RS Sedan MT 2608 
+1992 Acura NSX MT 3010 
+1992 Honda Civic DX HB MT 2178 
+1992 Acura NSX AT 3098 
+1992 Honda Civic CX HB MT 2094 
+1992 Honda Civic DX HB AT 2275 
+1992 Honda Civic Si HB MT 2326 
+1992 Honda Civic VX HB MT 2094 
+1992 Honda Civic DX CPE MT 2224 
+1992 Honda Civic DX CPE AT 2317 
+1992 Honda Civic EX CPE MT 2390 
+1992 Honda Civic EX CPE AT 2445 
+1992 Honda Prelude S MT 2809 
+1992 Honda Prelude S AT 2862 
+1992 Honda Prelude Si MT 2866 
+1992 Honda Prelude Si AT 2921 
+1992 Honda Prelude VTEC MT 2932 
+1992 Honda Accord DX CPE MT 2738 
+1992 Honda Accord DX CPE AT 2804 
+1992 Honda Accord EX CPE MT 2888 
+1992 Honda Accord EX CPE AT 2954 
+1992 Honda Accord LX CPE MT 2822 
+1992 Honda Accord LX CPE AT 2888 
+1992 Acura Integra GS Coupe AT 2701 
+1992 Acura Integra LS Coupe AT 2681 
+1992 Acura Integra RS Coupe AT 2615 
+1992 Acura Integra GS Sedan AT 2760 
+1992 Acura Integra LS Sedan AT 2701 
+1992 Acura Integra LS Sedan AT 2665 
+1992 Honda Civic DX SDN MT 2275 
+1992 Honda Civic DX SDN AT 2342 
+1992 Honda Civic LX SDN MT 2319 
+1992 Honda Civic LX SDN AT 2388 
+1992 Honda Civic EX SDN MT 2480 
+1992 Honda Civic EX SDN AT 2524 
+1992 Honda Accord DX Sedan MT 2773 
+1992 Honda Accord DX Sedan AT 2844 
+1992 Honda Accord EX Sedan MT 2923 
+1992 Honda Accord EX Sedan AT 2989 
+1992 Honda Accord LX Sedan MT 2857 
+1992 Honda Accord LX Sedan AT 2923 
+1993 Acura Integra GS Coupe MT 2643 
+1993 Acura Integra GS-R Coupe MT 2657 
+1993 Acura Integra LS Coupe MT 2619 
+1993 Acura Integra RS Coupe MT 2557 
+1993 Acura Integra GS-Sedan MT 2703 
+1993 Acura Integra LS-Sedan MT 2643 
+1993 Acura Integra RS Sedan MT 2608 
+1993 Acura NSX MT 3009 
+1993 Honda Civic CX HB MT 2094 
+1993 Honda del Sol S MT 2277 
+1993 Honda del Sol S AT 2359 
+1993 Honda del Sol Si MT 2396 
+1993 Honda del Sol Si AT 2474 
+1993 Honda Civic DX HB MT 2178 
+1993 Honda Civic DX HB AT 2275 
+1993 Honda Civic Si HB MT 2326 
+1993 Honda Civic VX HB MT 2094 
+1993 Honda Civic DX CPE MT 2224 
+1993 Honda Civic DX CPE AT 2317 
+1993 Honda Civic EX CPE MT 2390 
+1993 Honda Civic EX CPE AT 2445 
+1993 Honda Prelude S MT 2809 
+1993 Honda Prelude S AT 2862 
+1993 Honda Prelude Si MT 2866 
+1993 Honda Prelude Si AT 2921 
+1993 Honda Prelude VTEC MT 2932 
+1993 Honda Accord DX CPE MT 2734 
+1993 Honda Accord DX CPE AT 2800 
+1993 Honda Accord EX CPE MT 2948 
+1993 Honda Accord EX CPE AT 3014 
+1993 Honda Accord LX CPE MT 2822 
+1993 Honda Accord LX CPE AT 2888 
+1993 Honda Accord SE CPE AT 3014 
+1993 Acura Integra GS Coupe AT 2701 
+1993 Acura Integra LS Coupe AT 2681 
+1993 Acura Integra RS Coupe AT 2615 
+1993 Acura Integra GS Sedan AT 2760 
+1993 Acura Integra LS Sedan AT 2701 
+1993 Acura Integra LS Sedan AT 2665 
+1993 Honda Civic DX SDN MT 2275 
+1993 Honda Civic DX SDN AT 2342 
+1993 Honda Civic LX SDN MT 2319 
+1993 Honda Civic LX SDN AT 2388 
+1993 Honda Civic EX SDN MT 2520 
+1993 Honda Civic EX SDN AT 2564 
+1993 Honda Accord DX Sedan MT 2769 
+1993 Honda Accord DX Sedan AT 2835 
+1993 Honda Accord EX Sedan MT 2987 
+1993 Honda Accord EX Sedan AT 3053 
+1993 Honda Accord LX Sedan MT 2866 
+1993 Honda Accord LX Sedan AT 2932 
+1994 Acura Integra GS Coupe MT 2643 
+1994 Acura Integra GS-R Coupe MT 2667 
+1994 Acura Integra LS Coupe MT 2643 
+1994 Acura Integra RS Coupe MT 2529 
+1994 Acura Integra GS-R Sedan MT 2765 
+1994 Acura Integra LS Sedan MT 2703 
+1994 Acura NSX MT 3020 
+1994 Acura NSX AT 3109 
+1994 Honda del Sol S MT 2301 
+1994 Honda del Sol S AT 2387 
+1994 Honda del Sol Si MT 2414 
+1994 Honda del Sol Si AT 2474 
+1994 Honda del Sol VTEC MT 2491 
+1994 Honda Civic CX HB MT 2108 
+1994 Honda Civic DX HB MT 2178 
+1994 Honda Civic DX HB AT 2264 
+1994 Honda Civic Si HB MT 2390 
+1994 Honda Civic VX HB MT 2094 
+1994 Honda Civic DX CPE MT 2231 
+1994 Honda Civic DX CPE AT 2326 
+1994 Honda Civic EX CPE MT 2443 
+1994 Honda Civic EX CPE AT 2502 
+1994 Honda Prelude S MT 2809 
+1994 Honda Prelude S AT 2862 
+1994 Honda Prelude Si MT 2866 
+1994 Honda Prelude Si AT 2921 
+1994 Honda Prelude VTEC MT 2932 
+1995 Acura Integra GS-R Coupe MT 2667 
+1995 Acura Integra LS Coupe MT 2643 
+1995 Acura Integra RS Coupe MT 2529 
+1995 Acura Integra SE Coupe MT 2643 
+1995 Acura Integra GS-R Sedan MT 2765 
+1995 Acura Integra LS Sedan MT 2738 
+1995 Acura Integra SE Sedan MT 2703 
+1995 Acura NSX MT 3047 
+1995 Acura NSX AT 3113 
+1995 Acura NSX T AT 3208 
+1995 Acura NSX T MT 3142 
+1995 Honda del Sol S MT 2295 
+1995 Honda del Sol S AT 2387 
+1995 Honda del Sol Si MT 2414 
+1995 Honda del Sol Si AT 2474 
+1995 Honda del Sol VTEC MT 2522 
+1995 Honda Civic CX HB MT 2108 
+1995 Honda Civic DX HB MT 2178 
+1995 Honda Civic DX HB AT 2264 
+1995 Honda Civic Si HB MT 2390 
+1995 Honda Civic VX HB MT 2094 
+1995 Honda Civic DX CPE MT 2231 
+1995 Honda Civic DX CPE AT 2326 
+1995 Honda Civic EX CPE MT 2443 
+1995 Honda Civic EX CPE AT 2502 
+1995 Honda Prelude S MT 2809 
+1995 Honda Prelude S AT 2862 
+1995 Honda Prelude Si MT 2866 
+1995 Honda Prelude Si AT 2921 
+1995 Honda Prelude VTEC MT 2932 
+1995 Honda Accord EX CPE MT 2954 
+1995 Honda Accord LX CPE MT 2822 
+1995 Honda Accord LX CPE AT 2888 
+1995 Acura Integra LS Coupe AT 2685 
+1995 Acura Integra RS Coupe AT 2570 
+1995 Acura Integra SE Coupe AT 2685 
+1995 Acura Integra LS Sedan AT 2780 
+1995 Acura Integra SE Sedan AT 2708 
+1995 Honda Civic DX SDN MT 2313 
+1995 Honda Civic DX SDN AT 2392 
+1995 Honda Civic LX SDN MT 2376 
+1995 Honda Civic LX SDN AT 2440 
+1995 Honda Civic EX SDN MT 2522 
+1995 Honda Civic EX SDN AT 2575 
+1995 Honda Accord DX Sedan MT 2800 
+1995 Honda Accord DX Sedan AT 2866 
+1995 Honda Accord EX Sedan MT 3009 
+1995 Honda Accord EX Sedan AT 3075 
+1995 Honda Accord EX V6 SDN AT 3285 
+1995 Honda Accord LX Sedan MT 2877 
+1995 Honda Accord LX Sedan AT 2943 
+1995 Honda Accord LX V6 SDN AT 3218 
+1996 Acura Integra GS-R Coupe MT 2667 
+1996 Acura Integra LS Coupe MT 2643 
+1996 Acura Integra RS Coupe MT 2529 
+1996 Acura Integra SE Coupe MT 2643 
+1996 Acura Integra GS-R Sedan MT 2765 
+1996 Acura Integra LS Sedan MT 2738 
+1996 Acura Integra RS Sedan MT 2628 
+1996 Acura NSX MT 3047 
+1996 Acura NSX AT 3113 
+1996 Acura NSX T MT 3142 
+1996 Acura NSX T AT 3208 
+1996 Honda Civic CX HB MT 2222 
+1996 Honda Civic CX HB AT 2298 
+1996 Honda Civic DX HB MT 2242 
+1996 Honda Civic DX HB AT 2317 
+1996 Honda Civic DX CPE MT 2262 
+1996 Honda Civic DX CPE AT 2339 
+1996 Honda Civic EX CPE MT 2483 
+1996 Honda Civic EX CPE AT 2513 
+1996 Honda Civic HX CPE MT 2313 
+1996 Honda Prelude S MT 2809 
+1996 Honda Prelude S AT 2862 
+1996 Honda Prelude Si MT 2866 
+1996 Honda Prelude Si AT 2921 
+1996 Honda Prelude VTEC MT 2932 
+1996 Honda Accord EX CPE MT 2965 
+1996 Honda Accord EX CPE AT 3031 
+1996 Honda Accord LX CPE MT 2855 
+1996 Honda Accord LX CPE AT 2921 
+1996 Acura Integra LS Coupe AT 2685 
+1996 Acura Integra RS Coupe AT 2570 
+1996 Acura Integra SE Coupe AT 2685 
+1996 Acura Integra LS Sedan AT 2780 
+1996 Acura Integra SE Sedan AT 2708 
+1996 Honda Civic DX SDN MT 2370 
+1996 Honda Civic DX SDN AT 2319 
+1996 Honda Civic LX SDN MT 2430 
+1996 Honda Civic LX SDN AT 2387 
+1996 Honda Civic EX SDN MT 2568 
+1996 Honda Civic EX SDN AT 2518 
+1996 Honda Accord DX Sedan MT 2855 
+1996 Honda Accord DX Sedan AT 2921 
+1996 Honda Accord EX Sedan MT 3020 
+1996 Honda Accord EX Sedan AT 3086 
+1996 Honda Accord EX V6 SDN AT 3285 
+1996 Honda Accord LX Sedan MT 2899 
+1996 Honda Accord LX Sedan AT 2965 
+1996 Honda Accord LX V6 SDN AT 3219 
+1997 Acura Integra GS Coupe MT 2680 
+1997 Acura Integra GS-R Coupe MT 2667 
+1997 Acura Integra LS Coupe MT 2685 
+1997 Acura Integra RS Coupe MT 2570 
+1997 Acura Integra Type-R MT 2600 
+1997 Acura Integra GS Sedan MT 2767 
+1997 Acura Integra GS-R Sedan MT 2765 
+1997 Acura Integra LS Sedan MT 2703 
+1997 Acura NSX MT 3045 
+1997 Acura NSX AT 3069 
+1997 Acura NSX T MT 3140 
+1997 Acura NSX T AT 3164 
+1997 Honda CRV MT 3164 
+1997 Honda Civic CX HB MT 2304 
+1997 Honda Civic CX HB AT 2238 
+1997 Honda Civic DX HB MT 2319 
+1997 Honda Civic DX HB AT 2253 
+1997 Honda Civic DX CPE MT 2337 
+1997 Honda Civic DX CPE AT 2271 
+1997 Honda Civic EX CPE MT 2496 
+1997 Honda Civic EX CPE AT 2460 
+1997 Honda Civic HX CPE MT 2339 
+1997 Honda Civic HX CPE AT 2324 
+1997 Honda Prelude Base MT 3009 
+1997 Honda Prelude Base AT 2954 
+1997 Honda Accord EX CPE MT 3031 
+1997 Honda Accord EX CPE AT 2965 
+1997 Honda Accord LX CPE MT 2921 
+1997 Honda Accord LX CPE AT 2855 
+1997 Honda Accord SE CPE MT 2921 
+1997 Acura Integra GS Coupe AT 2638 
+1997 Acura Integra LS Coupe AT 2643 
+1997 Acura Integra RS Coupe AT 2529 
+1997 Acura Integra GS Sedan AT 2725 
+1997 Acura Integra GS Sedan AT 2764 
+1997 Acura Integra LS Sedan AT 2742 
+1997 Honda Civic DX SDN MT 2370 
+1997 Honda Civic DX SDN AT 2319 
+1997 Honda Civic LX SDN MT 2438 
+1997 Honda Civic LX SDN AT 2387 
+1997 Honda Civic EX SDN MT 2568 
+1997 Honda Civic EX SDN AT 2518 
+1997 Honda Accord DX Sedan MT 2921 
+1997 Honda Accord DX Sedan AT 2855 
+1997 Honda Accord EX Sedan MT 3020 
+1997 Honda Accord EX Sedan AT 3086 
+1997 Honda Accord EX V6 SDN AT 3285 
+1997 Honda Accord LX Sedan MT 2965 
+1997 Honda Accord LX Sedan AT 2965 
+1997 Honda Accord LX V6 SDN AT 3219
+1998 Acura Integra GS Coupe MT 2636 
+1998 Acura Integra GS-R Coupe MT 2665 
+1998 Acura Integra LS Coupe MT 2640 
+1998 Acura Integra RS Coupe MT 2526 
+1998 Acura Integra Type-R MT 2577 
+1998 Acura Integra GS Sedan MT 2722 
+1998 Acura Integra GS-R Sedan MT 2762 
+1998 Acura Integra LS Sedan MT 2703 
+1998 Acura NSX MT 3066 
+1998 Acura NSX AT 3066 
+1998 Acura NSX T MT 3160 
+1998 Acura NSX T AT 3204 
+1998 Honda CRV LX 4WD MT 3208 
+1998 Honda CRV EX 4WD MT 3217 
+1998 Honda CRV EX 4WD AT 3245 
+1998 Honda CRV LX 2WD AT 3126 
+1998 Honda CRV LX 4WD MT 3208 
+1998 Honda CRV LX 4WD AT 3236 
+1998 Honda Civic CX HB MT 2295 
+1998 Honda Civic CX HB AT 2357 
+1998 Honda Civic DX HB MT 2339 
+1998 Honda Civic DX HB AT 2392 
+1998 Honda Civic DX CPE MT 2342 
+1998 Honda Civic DX CPE AT 2385 
+1998 Honda Civic EX CPE MT 2504 
+1998 Honda Civic EX CPE AT 2551 
+1998 Honda Civic HX CPE MT 2361 
+1998 Honda Civic HX CPE AT 2429 
+1998 Honda Prelude Base MT 3009 
+1998 Honda Prelude Base AT 2954 
+1998 Honda Prelude Type SH AT 3042 
+1998 Honda Accord EX CPE MT 2976 
+1998 Acura Integra GS Coupe AT 2678 
+1998 Acura Integra LS Coupe AT 2683 
+1998 Acura Integra RS Coupe AT 2568 
+1998 Acura Integra GS Sedan AT 2764 
+1998 Acura Integra GS Sedan AT 2764 
+1998 Acura Integra LS Sedan AT 2742 
+1998 Honda Civic DX SDN MT 2339 
+1998 Honda Civic DX SDN AT 2385 
+1998 Honda Civic LX SDN MT 2412 
+1998 Honda Civic LX SDN AT 2458 
+1998 Honda Civic EX SDN MT 2511 
+1998 Honda Civic EX SDN AT 2558 
+1998 Honda Accord EX CPE AT 3042 
+1998 Honda Accord EX V6 CPE AT 3241 
+1998 Honda Accord LX CPE MT 2943 
+1998 Honda Accord LX CPE AT 3009 
+1998 Honda Accord LX V6 CPE AT 3197 
+1998 Honda Accord DX Sedan MT 2888 
+1998 Honda Accord DX Sedan AT 2954 
+1998 Honda Accord EX Sedan MT 3020 
+1998 Honda Accord EX Sedan AT 3086 
+1998 Honda Accord EX V6 SDN AT 3285 
+1998 Honda Accord LX Sedan MT 2987 
+1998 Honda Accord LX Sedan AT 2987 
+1998 Honda Accord LX V6 SDN AT 3241 
+1999 Acura Integra GS Coupe MT 2639 
+1999 Acura Integra GS-R Coupe MT 2667 
+1999 Acura Integra LS Coupe MT 2643 
+1999 Acura Integra Type-R MT 2577 
+1999 Acura Integra GS Sedan MT 2764 
+1999 Acura Integra GS-R Sedan MT 2764 
+1999 Acura Integra LS Sedan MT 2703 
+1999 Acura NSX MT 3066 
+1999 Acura NSX AT 3110 
+1999 Acura NSX T MT 3160 
+1999 Acura NSX T AT 2204 
+1999 Honda CRV LX 4WD MT 3210 
+1999 Honda CRV LX 4WD AT 3236 
+1999 Honda CRV EX 4WD MT 3219 
+1999 Honda CRV EX 4WD AT 3245 
+1999 Honda CRV LX 2WD AT 3126 
+1999 Honda Civic CX HB MT 2395 
+1999 Honda Civic CX HB AT 2423 
+1999 Honda Civic DX HB MT 2388 
+1999 Honda Civic DX HB AT 2434 
+1999 Honda Civic DX CPE MT 2359 
+1999 Honda Civic DX CPE AT 2405 
+1999 Honda Civic EX CPE MT 2513 
+1999 Honda Civic EX CPE AT 2560 
+1999 Honda Civic HX CPE MT 2370 
+1999 Honda Civic HX CPE AT 2445 
+1999 Honda Civic Si CPE MT 2612 
+1999 Honda Prelude Base MT 3009 
+1999 Honda Prelude Base AT 2954 
+1999 Honda Prelude Type SH AT 3042 
+1999 Honda Accord EX CPE MT 2976 
+1999 Honda Accord EX CPE MT 2981 
+1999 Acura Integra GS Coupe AT 2681 
+1999 Acura Integra LS Coupe AT 2685 
+1999 Acura Integra GS Sedan AT 2767 
+1999 Acura Integra LS Sedan AT 2745 
+1999 Honda Civic DX SDN MT 2339 
+1999 Honda Civic DX SDN AT 2388 
+1999 Honda Civic LX SDN MT 2410 
+1999 Honda Civic LX SDN AT 2456 
+1999 Honda Civic EX SDN MT 2513 
+1999 Honda Civic EX SDN AT 2562 
+1999 Honda Accord EX CPE AT 3042 
+1999 Honda Accord EX V6 CPE AT 3241 
+1999 Honda Accord LX CPE MT 2943 
+1999 Honda Accord LX CPE AT 3009 
+1999 Honda Accord LX V6 CPE AT 3197 
+1999 Honda Accord DX Sedan MT 2888 
+1999 Honda Accord DX Sedan AT 2954 
+1999 Honda Accord EX Sedan MT 3020 
+1999 Honda Accord EX Sedan AT 3086 
+1999 Honda Accord EX V6 SDN AT 3285 
+1999 Honda Accord LX Sedan MT 2987 
+1999 Honda Accord LX Sedan AT 2987 
+1999 Honda Accord LX V6 SDN AT 3241 
+2000 Acura Integra GS Coupe MT 2639 
+2000 Acura Integra GS-R Coupe MT 2672 
+2000 Acura Integra LS Coupe MT 2643 
+2000 Acura Integra Type-R MT 2595 
+2000 Acura Integra GS Sedan MT 2725 
+2000 Acura Integra GS-R Sedan MT 2764 
+2000 Acura Integra LS Sedan MT 2703 
+2000 Acura NSX MT 3069 
+2000 Honda S2000 MT 2809 
+2000 Acura NSX AT 3113 
+2000 Acura NSX T MT 3164 
+2000 Acura NSX T AT 3208 
+2000 Honda CRV LX 4WD MT 3210 
+2000 Honda CRV LX 4WD AT 3236 
+2000 Honda CRV SE 4WD AT 3254 
+2000 Honda CRV EX 4WD MT 3219 
+2000 Honda CRV EX 4WD AT 3245 
+2000 Honda CRV LX 2WD AT 3126 
+2000 Honda Civic CX HB MT 2395 
+2000 Honda Civic CX HB AT 2423 
+2000 Honda Civic DX HB MT 2388 
+2000 Honda Civic DX HB AT 2423 
+2000 Honda Civic DX CPE MT 2359 
+2000 Honda Civic DX CPE AT 2405 
+2000 Honda Civic EX CPE MT 2513 
+2000 Honda Civic EX CPE AT 2560 
+2000 Honda Civic HX CPE MT 2370 
+2000 Honda Civic HX CPE AT 2445 
+2000 Honda Civic Si CPE MT 2612 
+2000 Honda Prelude Base MT 3009 
+2000 Honda Prelude Base AT 2954 
+2000 Honda Prelude Type SH AT 3042 
+2000 Honda Accord EX CPE MT 2981 
+2000 Acura Integra GS Coupe AT 2681 
+2000 Acura Integra LS Coupe AT 2685 
+2000 Acura Integra GS Sedan AT 2767 
+2000 Acura Integra LS Sedan AT 2745 
+2000 Honda Civic DX SDN MT 2339 
+2000 Honda Civic DX SDN AT 2388 
+2000 Honda Civic LX SDN MT 2410 
+2000 Honda Civic LX SDN AT 2456 
+2000 Honda Civic EX SDN MT 2513 
+2000 Honda Civic EX SDN AT 2562 
+2000 Honda Accord EX CPE AT 3048 
+2000 Honda Accord EX V6 CPE AT 3259 
+2000 Honda Accord LX CPE MT 2948 
+2000 Honda Accord LX CPE AT 3014 
+2000 Honda Accord LX V6 CPE AT 3215 
+2000 Honda Accord DX Sedan MT 2932 
+2000 Honda Accord DX Sedan AT 2987 
+2000 Honda Accord EX Sedan MT 3064 
+2000 Honda Accord EX Sedan AT 3120 
+2000 Honda Accord EX V6 SDN AT 3318 
+2000 Honda Accord LX Sedan MT 3020 
+2000 Honda Accord LX Sedan AT 3075 
+2000 Honda Accord LX V6 SDN AT 3274 
+2001 Acura Integra GS Coupe MT 2639 
+2001 Acura Integra GS-R Coupe MT 2667 
+2001 Acura Integra LS Coupe MT 2643 
+2001 Acura Integra Type-R MT 2639 
+2001 Acura Integra GS Sedan MT 2725 
+2001 Acura Integra GS-R Sedan MT 2764 
+2001 Acura Integra LS Sedan MT 2703 
+2001 Acura NSX MT 3069 
+2001 Acura MDX Base AT 4323 
+2001 Acura MDX Touring AT 4383 
+2001 Honda S2000 MT 2809 
+2001 Acura NSX AT 3113 
+2001 Acura NSX T MT 3164 
+2001 Acura NSX T AT 3208 
+2001 Honda CRV SE 4WD AT 3254 
+2001 Honda CRV EX 4WD MT 3219 
+2001 Honda CRV EX 4WD AT 3245 
+2001 Honda CRV LX 2WD MT 3210 
+2001 Honda CRV LX 2WD AT 3236 
+2001 Honda Civic DX CPE MT 2405 
+2001 Honda Civic DX CPE AT 2452 
+2001 Honda Civic EX CPE MT 2553 
+2001 Honda Civic EX CPE AT 2590 
+2001 Honda Civic HX CPE MT 2434 
+2001 Honda Civic HX CPE AT 2504 
+2001 Honda Prelude Base AT 2954 
+2001 Honda Prelude Type SH AT 3042 
+2001 Honda Accord EX CPE MT 3014 
+2001 Acura Integra GS Coupe AT 2681 
+2001 Acura Integra LS Coupe AT 2685 
+2001 Acura Integra GS Sedan AT 2767 
+2001 Acura Integra LS Sedan AT 2745 
+2001 Honda Civic DX SDN MT 2421 
+2001 Honda Civic DX SDN AT 2471 
+2001 Honda Civic LX SDN MT 2465 
+2001 Honda Civic LX SDN AT 2515 
+2001 Honda Civic EX SDN MT 2564 
+2001 Honda Civic EX SDN AT 2615 
+2001 Honda Accord EX CPE AT 3082 
+2001 Honda Accord EX V6 CPE AT 3283 
+2001 Honda Accord LX CPE MT 2967 
+2001 Honda Accord LX CPE AT 3036 
+2001 Honda Accord LX V6 CPE AT 3236 
+2001 Honda Accord DX Sedan MT 2943 
+2001 Honda Accord DX Sedan AT 3003 
+2001 Honda Accord EX Sedan MT 3075 
+2001 Honda Accord EX Sedan AT 3142 
+2001 Honda Accord EX V6 SDN AT 3329 
+2001 Honda Accord LX Sedan MT 3031 
+2001 Honda Accord LX Sedan AT 3097 
+2001 Honda Accord LX V6 SDN AT 3274 
+2002 Acura RSX Type S MT 2767 
+2002 Acura RSX Base AT 2769 
+2002 Acura RSX Base MT 2694 
+2002 Acura NSX 3.0 MT 3197 
+2002 Acura NSX 3.0 AT 3153
