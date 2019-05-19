@@ -1,0 +1,4 @@
+C:\>mklink /J "C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\cars\afr_honda_civic_aeh_civic" "C:\Users\macbeth\Documents\github\aeh\afr_honda_civic_aeh_civic"
+Junction created for C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\cars\afr_honda_civic_aeh_civic <<===>> C:\Users\macbeth\Documents\github\aeh\afr_honda_civic_aeh_civic
+
+C:\>
